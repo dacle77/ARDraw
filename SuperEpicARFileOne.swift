@@ -15,3 +15,5 @@ import Foundation
 
 
 // add some file from the portable and see it implodes
+
+// Checking from desktop looks of and  . . . . . / ping
